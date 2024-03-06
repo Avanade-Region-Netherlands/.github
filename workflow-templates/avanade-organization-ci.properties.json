@@ -1,0 +1,13 @@
+{
+    "name": "Avanade Organization Workflow",
+    "description": "Avanade Organization CI Workflow template.",
+    "iconName": "Avanade",
+    "categories": [
+        "CI"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
